@@ -265,7 +265,7 @@ Added Reddit source pills, Google Maps deep links, loading messages showing whic
 
 ---
 
-*Built April 2026 · Bay Area beta · 100 tester cap · 2 queries per user*
+Built April 2026 · Bay Area beta · 100 tester cap · 2 queries per user
 [Try Pepper](https://vibecheck-frontend-ten.vercel.app/)
 [Qucik Intro on my build experience](https://canva.link/mdzxd4rogxyvn99)
 ---
